@@ -1,4 +1,3 @@
 # Fatec_PLN
 Python_Google_Colab
-Repositório com conteúdo referente à disciplina de Processamento de Linguagem Natural na Fatec Mauá.
-Curso: Desenvolvimento de Software Multiplataforma 2025
+Repositório dedicado ao curso de Desenvolvimento de Software Multiplataforma, contendo materiais relacionados à disciplina de Processamento de Linguagem Natural oferecida pela Fatec Mauá. A disciplina é conduzida pelo professor Rodolfo dos Santo Lovera.
